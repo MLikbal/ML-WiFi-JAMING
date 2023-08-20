@@ -20,3 +20,4 @@ IP Target: copy to paste👉 104.17.254.53
 port: copy to paste 👉 8080
 
 #
+[![Screenshot-2023-08-20-14-52-31-076-com-termux.jpg](https://i.postimg.cc/RVF2x638/Screenshot-2023-08-20-14-52-31-076-com-termux.jpg)](https://postimg.cc/WtB5M4w6)
