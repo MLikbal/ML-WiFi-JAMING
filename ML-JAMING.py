@@ -20,11 +20,11 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("toilet -Fgay MLJAMING")
 print
-print "Author   : ML-IKBAL"
-print "You Tube : https://youtube.com/@mlhackerteam"
+print "Author   : ML-RAKIB"
+print "You Tube : https://youtube.com/@mlhackergroup"
 print "github   : https://github.com/mlikbal"
 print "Facebook Group : ML SPAMMING & BLACK HACKER TEAM"
-os.system('xdg-open https://t.me/MLHACKERSTEAM')
+os.system('xdg-open https://t.me/MLHackerGroup')
 print
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
